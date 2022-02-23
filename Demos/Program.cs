@@ -1,7 +1,59 @@
 ﻿using static System.Console;
 public class program
 {
-    
+
+    static void demo7()
+    {
+     int [] numeros = new int []{0,2,4,6,8};
+     WriteLine("Digite o numero que gostaria de encontrar");
+     var numero =int.Parse(ReadLine());
+     var idxEncontrado = EncontrarNumero(numeros,numero);
+
+        if (idxEncontrado >=0 )
+        {
+          WriteLine($"O numero digitado esta na posicao {idxEncontrado}");  
+        }
+        else
+        WriteLine("O numero não foi encontrado");
+    }
+    static void demo6()
+    {
+         int[] pares = new int[]{0,2,4,6,8};
+        //string.join junta o array e coloca as separaçoes
+      MudarParaImpar(pares);
+      WriteLine($"Os impares {string.Join(",",pares)}");
+    }
+    static void demo5()
+    {
+        //usar o ref para alterar valores da referencia
+        string nome = "italo";
+       TrocarNome1(ref nome, "rodolfo");
+
+       WriteLine($@"O novo nome é {nome}");
+    }
+    static void demo4()
+    {
+         string nome = "italo";
+       //TrocarNome(nome, "rodolfo");
+
+       WriteLine($@"O novo nome é {nome}");
+    }
+    static void demo3()
+    {
+    structPessoa p1 = new structPessoa
+       {
+           Documento = "1234",
+           Idade = 30,
+           Nome = "Ricardo"
+
+       };
+       var p2=p1;
+       p1 = Trocarnome(p1,"Joao");
+       WriteLine($@"
+       Nome do p1 {p1.Nome}
+       Nome do p2 é {p2.Nome}
+       ");
+    }
     static void demo2()
     {
         Pessoa p1 = new Pessoa();
@@ -37,20 +89,67 @@ public class program
         p1.Nome = nomeNovo;
         return p1;
     }
-    public static void Main()
-    {
-       structPessoa p1 = new structPessoa
-       {
-           Documento = "1234",
-           Idade = 30,
-           Nome = "Ricardo"
 
-       };
-       var p2=p1;
-       p1 = Trocarnome(p1,"Joao");
-       WriteLine($@"
-       Nome do p1 {p1.Nome}
-       Nome do p2 é {p2.Nome}
-       ");
+    static void TrocarNome1(ref string nome ,string nomenovo)
+    {
+        nome = nomenovo;
     }
+
+    static void MudarParaImpar(int[] pares)
+    {
+        for (int i =0; i<pares.Length;i++)
+        {
+            pares [i]=pares [i] +1;
+        }
+    }
+
+    static int EncontrarNumero(int[] numeros,int numero)
+    {
+        for (int i = 0; i < numeros.Length; i++)
+        {
+          if(numeros[i] == numero)
+           return i;
+            
+        }
+        return -1;
+    }
+
+    static bool EncontraPessoa(List<Pessoa> pessoas, Pessoa pessoa)
+    {
+        foreach (var item in pessoas)
+        {
+            if(item==pessoa)
+            {
+                return true;
+            }
+            
+        }
+        return false;
+    }
+    public static void Main(string [] args)
+    {
+     List<Pessoa> pessoas = new List<Pessoa>()
+     {
+         new Pessoa(){Nome = "Italo"},
+         new Pessoa(){Nome = "Rafael"},
+         new Pessoa(){Nome = "Bruna"},
+         new Pessoa(){Nome = "Mariane"},
+         new Pessoa(){Nome = "Carlos"},
+     };
+     WriteLine($"Digita a pessoa que deseja localizar");
+     var nome = ReadLine();
+     var pessoa = new Pessoa(){Nome=nome};
+     var encontrado = EncontraPessoa(pessoas,pessoa);
+     if (encontrado)
+     {
+         WriteLine("Pessoa encontrada");
+     }
+     else
+     {
+         WriteLine("Pessoa não encontrada");
+     }
+
+       
+    }
+    
 }
