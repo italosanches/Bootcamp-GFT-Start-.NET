@@ -114,11 +114,11 @@ public class program
         return -1;
     }
 
-    static bool EncontraPessoa(List<Pessoa> pessoas, Pessoa pessoa)
+    static bool EncontraPessoa(List<structPessoa> pessoas, structPessoa pessoa)
     {
         foreach (var item in pessoas)
         {
-            if(item==pessoa)
+            if(item.Equals(pessoa))
             {
                 return true;
             }
@@ -128,17 +128,17 @@ public class program
     }
     public static void Main(string [] args)
     {
-     List<Pessoa> pessoas = new List<Pessoa>()
+     List<structPessoa> pessoas = new List<structPessoa>()
      {
-         new Pessoa(){Nome = "Italo"},
-         new Pessoa(){Nome = "Rafael"},
-         new Pessoa(){Nome = "Bruna"},
-         new Pessoa(){Nome = "Mariane"},
-         new Pessoa(){Nome = "Carlos"},
+         new structPessoa(){Nome = "Italo"},
+         new structPessoa(){Nome = "Rafael"},
+         new structPessoa(){Nome = "Bruna"},
+         new structPessoa(){Nome = "Mariane"},
+         new structPessoa(){Nome = "Carlos"},
      };
      WriteLine($"Digita a pessoa que deseja localizar");
      var nome = ReadLine();
-     var pessoa = new Pessoa(){Nome=nome};
+     var pessoa = new structPessoa(){Nome=nome};
      var encontrado = EncontraPessoa(pessoas,pessoa);
      if (encontrado)
      {
