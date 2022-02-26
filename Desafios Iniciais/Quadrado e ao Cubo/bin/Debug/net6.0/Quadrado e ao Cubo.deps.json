@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quadrado e ao Cubo/1.0.0": {
+        "runtime": {
+          "Quadrado e ao Cubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quadrado e ao Cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
