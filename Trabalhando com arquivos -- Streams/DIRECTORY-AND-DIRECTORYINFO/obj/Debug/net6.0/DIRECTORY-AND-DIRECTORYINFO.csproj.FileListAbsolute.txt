@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\bin\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\bin\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\bin\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\bin\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\bin\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\refint\DIRECTORY-AND-DIRECTORYINFO.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\DIRECTORY-AND-DIRECTORYINFO.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\DIRECTORY-AND-DIRECTORYINFO\obj\Debug\net6.0\ref\DIRECTORY-AND-DIRECTORYINFO.dll

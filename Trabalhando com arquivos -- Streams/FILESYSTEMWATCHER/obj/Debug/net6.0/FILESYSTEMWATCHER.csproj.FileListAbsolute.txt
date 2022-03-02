@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\bin\Debug\net6.0\FILESYSTEMWATCHER.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\bin\Debug\net6.0\FILESYSTEMWATCHER.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\bin\Debug\net6.0\FILESYSTEMWATCHER.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\bin\Debug\net6.0\FILESYSTEMWATCHER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\bin\Debug\net6.0\FILESYSTEMWATCHER.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\refint\FILESYSTEMWATCHER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\FILESYSTEMWATCHER.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\FILESYSTEMWATCHER\obj\Debug\net6.0\ref\FILESYSTEMWATCHER.dll

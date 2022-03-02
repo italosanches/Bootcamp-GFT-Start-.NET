@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\bin\Debug\net6.0\LerDiretorios.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\bin\Debug\net6.0\LerDiretorios.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\bin\Debug\net6.0\LerDiretorios.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\bin\Debug\net6.0\LerDiretorios.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\bin\Debug\net6.0\LerDiretorios.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\refint\LerDiretorios.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\LerDiretorios.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\LerDiretorios\obj\Debug\net6.0\ref\LerDiretorios.dll

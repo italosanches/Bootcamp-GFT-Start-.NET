@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\bin\Debug\net6.0\STRINGREADER.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\bin\Debug\net6.0\STRINGREADER.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\bin\Debug\net6.0\STRINGREADER.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\bin\Debug\net6.0\STRINGREADER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\bin\Debug\net6.0\STRINGREADER.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\refint\STRINGREADER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\STRINGREADER.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGREADER\obj\Debug\net6.0\ref\STRINGREADER.dll
