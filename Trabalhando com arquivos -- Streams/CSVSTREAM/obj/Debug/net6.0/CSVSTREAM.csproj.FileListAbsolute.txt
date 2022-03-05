@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\bin\Debug\net6.0\CSVSTREAM.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\bin\Debug\net6.0\CSVSTREAM.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\bin\Debug\net6.0\CSVSTREAM.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\bin\Debug\net6.0\CSVSTREAM.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\bin\Debug\net6.0\CSVSTREAM.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\refint\CSVSTREAM.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\CSVSTREAM.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\CSVSTREAM\obj\Debug\net6.0\ref\CSVSTREAM.dll

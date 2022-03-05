@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\bin\Debug\net6.0\STRINGWRITER.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\bin\Debug\net6.0\STRINGWRITER.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\bin\Debug\net6.0\STRINGWRITER.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\bin\Debug\net6.0\STRINGWRITER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\bin\Debug\net6.0\STRINGWRITER.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\refint\STRINGWRITER.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\STRINGWRITER.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\STRINGWRITER\obj\Debug\net6.0\ref\STRINGWRITER.dll

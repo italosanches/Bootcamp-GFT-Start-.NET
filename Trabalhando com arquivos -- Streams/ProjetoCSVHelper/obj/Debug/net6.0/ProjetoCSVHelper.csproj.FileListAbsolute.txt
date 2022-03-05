@@ -1,0 +1,17 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\bin\Debug\net6.0\ProjetoCSVHelper.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\bin\Debug\net6.0\ProjetoCSVHelper.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\bin\Debug\net6.0\ProjetoCSVHelper.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\bin\Debug\net6.0\ProjetoCSVHelper.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\bin\Debug\net6.0\ProjetoCSVHelper.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.csproj.CopyComplete
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\refint\ProjetoCSVHelper.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ProjetoCSVHelper.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Trabalhando com arquivos -- Streams\ProjetoCSVHelper\obj\Debug\net6.0\ref\ProjetoCSVHelper.dll
