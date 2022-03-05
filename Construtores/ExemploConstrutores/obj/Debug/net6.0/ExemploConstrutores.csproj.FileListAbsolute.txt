@@ -1,0 +1,15 @@
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+C:\DIO .NET\Bootcamp-GFT-Start-.NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
