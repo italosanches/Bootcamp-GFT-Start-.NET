@@ -1,0 +1,15 @@
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.csproj.AssemblyReference.cache
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.AssemblyInfoInputs.cache
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.AssemblyInfo.cs
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.csproj.CoreCompileInputs.cache
+C:\Cadatro.Net\bin\Debug\net6.0\Cadatro.Net.exe
+C:\Cadatro.Net\bin\Debug\net6.0\Cadatro.Net.deps.json
+C:\Cadatro.Net\bin\Debug\net6.0\Cadatro.Net.runtimeconfig.json
+C:\Cadatro.Net\bin\Debug\net6.0\Cadatro.Net.dll
+C:\Cadatro.Net\bin\Debug\net6.0\Cadatro.Net.pdb
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.dll
+C:\Cadatro.Net\obj\Debug\net6.0\refint\Cadatro.Net.dll
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.pdb
+C:\Cadatro.Net\obj\Debug\net6.0\Cadatro.Net.genruntimeconfig.cache
+C:\Cadatro.Net\obj\Debug\net6.0\ref\Cadatro.Net.dll
